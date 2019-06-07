@@ -1,5 +1,6 @@
 # Joker
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
  [![Build Status](https://travis-ci.com/Yasir-siddiqui/Joker_dabot.svg?branch=master)](https://travis-ci.com/Yasir-siddiqui/Joker_dabot)
 
